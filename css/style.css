@@ -1,0 +1,18 @@
+ul.nav{
+  font-family: 'Armata', sans-serif;
+  font-size: 16px;
+}
+
+a.brand{
+  font-family: 'Armata', sans-serif;
+  font-size: 20px;
+}
+
+ul.nav.footer{
+  font-family: 'Parisienne', cursive;
+
+}
+
+.navbar-inverse .navbar-inner{
+  background-image: none;
+}
